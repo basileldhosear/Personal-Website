@@ -1,0 +1,9 @@
+.a{
+    width: 250px;
+height: 250px;
+    background-color: aqua;
+}
+
+.a {
+    box-shadow: 15px 15px green;
+  }
